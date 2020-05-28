@@ -39,6 +39,12 @@
       </feature>
     </config-file>
     <header-file src="src/ios/esptouch.h"/>
+    <header-file src="src/ios/esptouch/ESP_NetUtil.h"/>
+    <header-file src="src/ios/esptouch/ESPAES.h"/>
+    <header-file src="src/ios/esptouch/ESPDataCode.h"/>
+    <header-file src="src/ios/esptouch/ESPTouchDelegate.h"/>
+    <header-file src="src/ios/esptouch/ESPTouchResult.h"/>
+    <header-file src="src/ios/esptouch/ESPTouchTask.h"/>
     <source-file src="src/ios/esptouch.m"/>
     <source-file src="src/ios/esptouch"/>
     <source-file src="src/ios/libEsptouch_v0.3.7.0.a" framework="true"/>
