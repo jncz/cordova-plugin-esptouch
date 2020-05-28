@@ -1,10 +1,10 @@
 #import <Cordova/CDVPlugin.h>
 #import <Cordova/CDVPluginResult.h>
-#import "esptouch/ESPTouchTask.h"
-#import "esptouch/ESPTouchResult.h"
-#import "esptouch/ESP_NetUtil.h"
-#import "esptouch/ESPDataCode.h"
-#import "esptouch/ESPTouchDelegate.h"
+#import "ESPTouchTask.h"
+#import "ESPTouchResult.h"
+#import "ESP_NetUtil.h"
+#import "ESPDataCode.h"
+#import "ESPTouchDelegate.h"
 
 
 
